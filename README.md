@@ -31,12 +31,12 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Book Cover</title>
-    <style>
+!DOCTYPE html
+html lang="en"
+head>
+    meta charset="UTF-8"
+    title>Book Cover</title>
+    style
         body {
             background-color: #111;
             display: flex;
@@ -44,7 +44,7 @@ Publish the website in the LocalHost.
             align-items: center;
             height: 100vh;
             font-family: Arial, Helvetica, sans-serif;
-        }
+            }
 
         .book-cover {
             width: 350px;
