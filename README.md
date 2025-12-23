@@ -121,7 +121,6 @@ Publish the website in the LocalHost.
     </style>
 </head>
 <body>
-
 <div class="book-cover">
     <div class="badge">NEW</div>
 
