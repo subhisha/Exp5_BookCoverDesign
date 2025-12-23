@@ -31,9 +31,9 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-!DOCTYPE html
-html lang="en"
-head
+<!DOCTYPE html>
+<html lang="en">
+<head>
     meta charset="UTF-8"
     title>Book Cover</title>
     style
